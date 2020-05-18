@@ -1,0 +1,32 @@
+.hma_jquery_ui_tabs {   
+       float: left;
+    width: 100%;
+}
+.wto_btns_ul {    
+    float: left;
+    width: 15%;    
+}
+.wto_tab {
+    float: left;      
+    width: 82%;
+        min-height: 75vh;
+}
+.wto_btns_ul li { 
+    width: 100%;
+}
+.wto_btns_ul li a {  
+    width: -webkit-fill-available;    
+}
+.table{
+    width: 100%;
+}
+.logo_picker img,.favicon_picker img {
+    max-width: 100%;
+}
+.home_bg_bnr_picker img
+{
+    height: 300px;
+}
+.text-full{
+    width: 100%
+}

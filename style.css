@@ -1,0 +1,7 @@
+/*
+Theme Name: WP Starter Theme
+Author: Rana Umar
+*/
+#menu-main-menu .sub-menu {
+    display: none;
+}
